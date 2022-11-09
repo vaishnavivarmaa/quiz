@@ -5,3 +5,5 @@ Mini Project for Trainees
  T.vaishnavi
  Ravinder
  Lokesh
+
+This project is based on Node JS , JAVASCRIPT.
